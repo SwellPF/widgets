@@ -7,20 +7,20 @@ import Convert from "./Convert";
 
 const options = [
     {
-        label: 'Afrikaans',
-        value: 'af'
-    },
-    {
         label: 'Arabic',
         value: 'ar'
+    },
+    {
+        label: 'Finnish',
+        value: 'fi'
     },
     {
         label: 'Hindi',
         value: 'hi'
     },
     {
-        label: 'Finnish',
-        value: 'fi'
+        label: 'Spanish',
+        value: 'es'
     }
 ];
 
